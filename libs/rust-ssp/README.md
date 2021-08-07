@@ -2,6 +2,8 @@
 
 Structured Stream Parallelism for Rust
 
+The latest version can be obtained in the [GitHub Repository](https://github.com/GMAP/rust-ssp).
+
 Define a pipeline with N steps. Pipelines can be normal pipelines or "farm pipelines" (in which some steps are parallel).
 You can also define pipelines with mutable state.
 
