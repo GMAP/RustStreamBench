@@ -39,6 +39,6 @@ You can also define pipelines with mutable state.
     }
 
 
-# How to Cite our Work
+# How to Cite Rust-SSP
 	
 Ricardo Pieper, Dalvan Griebler, and Luiz Gustavo Fernandes. 2019. **Structured Stream Parallelism for Rust.** In Proceedings of the XXIII Brazilian Symposium on Programming Languages (SBLP 2019). ACM, New York, NY, USA, 54-61. DOI: https://doi.org/10.1145/3355378.3355384 
