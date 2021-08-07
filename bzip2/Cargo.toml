@@ -1,0 +1,33 @@
+[package]
+name = "bzip2"
+version = "0.1.0"
+edition = "2018"
+authors = ["Dalvan Griebler <dalvan.griebler@pucrs.br>",
+		   "Júnior Löff <junior.loff@edu.pucrs.br>",
+	   	   "Renato B. Hoffmann <renato.hoffmann@edu.pucrs.br>"]
+license = "MIT"
+repository = "https://github.com/GMAP/RustStreamBench"
+readme = "README.md"
+
+[dependencies]
+chrono = "0.4"
+libc = "0.2"
+bzip2-sys = { version = "0.1.7", path = "bzip2-sys" }
+
+# Rust-SSP
+rust-spp = { path = "~/../../libs/rust-ssp" }
+
+# Rust Standard Library + Crossbeam
+crossbeam-channel = "0.5"
+crossbeam-utils = "0.8"
+
+# Tokio
+tokio = "0.1.19"
+futures = "0.1"
+tokio-core = "0.1.17"
+
+# Rayon
+rayon = "1.5"
+
+# Pipeliner
+pipeliner = "1.0.1"
