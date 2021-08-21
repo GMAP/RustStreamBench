@@ -6,7 +6,7 @@ This project was conducted in the Parallel Applications Modelling Group (GMAP) a
 
 ## How to cite this work
   
-[[DOI]](https://doi.org/10.1016/j.cola.2021.101054) R. Pieper, J. Löff, R.B. Hoffmann, D. Grieble, L. G. Fernandes. **High-level and efficient structuredstream parallelism for rust on multi-cores**, *Journal of Computer Languages (COLA)* (2021)
+[[DOI]](https://doi.org/10.1016/j.cola.2021.101054) R. Pieper, J. Löff, R.B. Hoffmann, D. Griebler, L. G. Fernandes. **High-level and efficient structuredstream parallelism for rust on multi-cores**, *Journal of Computer Languages (COLA)* (2021)
 
 *You can also contribute with this project, writing issues and pull requests.*
 
